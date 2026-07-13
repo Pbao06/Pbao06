@@ -18,7 +18,7 @@
 ---
 
 ### 🏆 Achievements
-*   **Third Prize (Giải Ba)** - University Programming Contest.
+*   **Third Prize ** - University Programming Contest.
 
 ### 🚀 Featured Projects
 *   **Badminton Equipment Management**: A full-stack web application built with ASP.NET Core, featuring secure JWT authentication and RESTful architecture.
