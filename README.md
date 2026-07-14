@@ -26,7 +26,3 @@
 *   **Frontend**: HTML, CSS, JavaScript.
 *   **DevOps & Tools**: Docker, Git, Visual Studio.
 
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true" />
-</p>
