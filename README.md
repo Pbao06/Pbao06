@@ -16,10 +16,6 @@
 </p>
 
 ---
-
-### 🏆 Achievements
-*   **Third Prize ** - University Programming Contest.
-
 ### 🚀 Featured Projects
 *   **Badminton Equipment Management**: A full-stack web application built with ASP.NET Core, featuring secure JWT authentication and RESTful architecture.
 *   **Educational Platform (EduVN)**: A modern web-based learning management system focusing on performance and minimalist UI.
