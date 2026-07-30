@@ -1,28 +1,43 @@
-<h1 align="center">Phan Gia Bảo</h1>
+<h1 align="center">~*~ WELCOME TO PHAN GIA BAO'S HOMEPAGE ~*~</h1>
 
 <p align="center">
-  <!-- CÁC ICON ĐÃ ĐƯỢC SET SIZE LỚN HƠN VỚI &logoWidth=40 -->
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white&logoWidth=40" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&logoWidth=40" />
-  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&logoWidth=40" />
-  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=swagger&logoColor=white&logoWidth=40" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white&logoWidth=40" />
-  <br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&logoWidth=40" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&logoWidth=40" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoWidth=40" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&logoWidth=40" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black&logoWidth=40" />
+  <img src="https://assets.gamedev.net/emoticons/default_smile.gif" alt="smile" /> 
+  <strong>You are visitor number:</strong> 
+  <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FPbao06" alt="Hit Counter" /> 
+  <img src="https://assets.gamedev.net/emoticons/default_smile.gif" alt="smile" />
 </p>
 
----
-### 🚀 Featured Projects
-*   **Badminton Equipment Management**: A full-stack web application built with ASP.NET Core, featuring secure JWT authentication and RESTful architecture.
-*   **Educational Platform (EduVN)**: A modern web-based learning management system focusing on performance and minimalist UI.
+<p align="center">
+  <img src="https://media.giphy.com/media/XdxlJ78SAjYza/giphy.gif" width="300" alt="Under Construction" />
+</p>
 
-### 🛠 Tech Stack
-*   **Backend**: C#, C++, ASP.NET Core, REST API, JWT, Swagger.
-*   **Databases**: SQL Server, MySQL.
-*   **Frontend**: HTML, CSS, JavaScript.
-*   **DevOps & Tools**: Docker, Git, Visual Studio.
+<hr>
 
+<h3>> C:\ABOUT_ME.TXT</h3>
+<pre>
+--------------------------------------------------
+  NAME      : Phan Gia Bao
+  STATUS    : Coding & Surviving IT University
+  LOCATION  : Vietnam
+MOOD      : ~_* & Writing C# Code
+--------------------------------------------------
+</pre>
+
+<h3>> MY_FAVORITE_TOOLS.EXE</h3>
+<pre>
+[+] Language  : C#, C++, JavaScript
+[+] Web Tech  : ASP.NET Core, HTML/CSS, REST API
+[+] Database  : MySQL, SQL Server
+[+] Tools     : Docker, Git, VS Code, Swagger
+</pre>
+
+<hr>
+
+<h3>> GUESTBOOK / NOTES</h3>
+<p><i>"This site is best viewed with Netscape Navigator or Internet Explorer 4.0 at 800x600 resolution."</i></p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mizuz/Mizuz/master/assets/under_construction_animated.gif" alt="Working">
+  <br>
+  <b>[ SITE UNDER PERMANENT CONSTRUCTION ]</b>
+</p>
